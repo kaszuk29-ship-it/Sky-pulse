@@ -33,3 +33,11 @@ Sky-pulse/
 ├── app.py
 ├── requirements.txt
 └── README.md
+```
+
+## Live Link
+https://sky-pulse-47suzeemoycdvecwpytpaz.streamlit.app/
+
+## Author 
+
+**Kaviya Shree V**
